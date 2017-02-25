@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a4fb1a9-caa4-40df-afbb-b4f2b75df952" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/bao/controller/TestController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jsdemo.iws" />
@@ -967,7 +966,7 @@
       <workItem from="1473425114710" duration="2886000" />
       <workItem from="1473527048745" duration="1223000" />
       <workItem from="1473574866295" duration="146000" />
-      <workItem from="1488009824001" duration="423000" />
+      <workItem from="1488009824001" duration="455000" />
     </task>
     <task id="LOCAL-00001" summary="项目创建">
       <created>1473527219948</created>
@@ -997,7 +996,14 @@
       <option name="project" value="LOCAL" />
       <updated>1473575009192</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="改名">
+      <created>1488010279322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1488010279322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1021,7 +1027,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64631000" />
+    <option name="totallyTimeSpent" value="64663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1318" height="735" extended-state="0" />
@@ -1111,7 +1117,8 @@
     <MESSAGE value="项目创建" />
     <MESSAGE value="项目修改" />
     <MESSAGE value="配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置文件" />
+    <MESSAGE value="改名" />
+    <option name="LAST_COMMIT_MESSAGE" value="改名" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
