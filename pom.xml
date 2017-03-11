@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bao</groupId>
-    <artifactId>mydemo</artifactId>
+    <artifactId>ssmDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <!--<packaging>war</packaging> -->
 
@@ -174,7 +174,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>mydemo</finalName>
+        <finalName>ssmDemo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.mortbay.jetty</groupId>
